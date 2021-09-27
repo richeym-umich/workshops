@@ -9,7 +9,7 @@ from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
 
-#load dataset
+#load dataset- CHANGE THIS TO LOCAL FILENAME
 filename = '/scratch/hpcstaff_root/hpcstaff/richeym/workshops/ml-on-greatlakes/iris.csv'
 
 #Specify column names of data
